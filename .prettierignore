@@ -1,0 +1,4 @@
+resources/js/components/ui/*
+resources/js/components/reui/*
+resources/views/mail/*
+resources/views/vendor
